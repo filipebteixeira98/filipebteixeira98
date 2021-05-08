@@ -1,14 +1,16 @@
 # Hi there, I’m Filipe Teixeira 👋
 
+[![Gmail Badge](https://img.shields.io/badge/-filipebarrosteixeira98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:filipebarrosteixeira98@gmail.com)](mailto:filipebarrosteixeira98@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Filipe%20Teixeira-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipebteixeira98/)](https://www.linkedin.com/in/filipebteixeira98/)
+
 ### ✨ Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
 
-#### 🧍 Talking about Personal Stuffs:
-- 👀 interested in development/network infrastructure;
+#### 🤺 Talking about Personal Stuffs:
+- 👀 interested in programming/network infrastructure;
 - 👨‍💻 working on something cool;
-- 🚀 currently learning [server, web, mobile] development using Javascript;
+- 🚀 currently learning [server, web, mobile] development using Typescript;
 - 💬 ask me about anything, i am happy to help;
 - 💞️ looking to collaborate on open source projects;
-- 📫 how to reach me: filipebarrosteixeira98@gmail.com;
 
 #### 🛠️ Languages and Technologies I use daily
 
