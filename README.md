@@ -1,4 +1,4 @@
-# Hi there, I’m Filipe Teixeira 👋
+# Hi there 👋
 
 [![Gmail Badge](https://img.shields.io/badge/-filipebarrosteixeira98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:filipebarrosteixeira98@gmail.com)](mailto:filipebarrosteixeira98@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Filipe%20Teixeira-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipebteixeira98/)](https://www.linkedin.com/in/filipebteixeira98/)
