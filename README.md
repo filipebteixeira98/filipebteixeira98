@@ -28,8 +28,7 @@
 #### 📊 This Week I Spent My Time On:
 <!--START_SECTION:waka-->
 ```text
-TypeScript   1 hr 34 mins    █████████████████████░░░░   83.34 % 
-JavaScript   17 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
