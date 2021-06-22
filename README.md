@@ -28,7 +28,8 @@
 #### 📊 This Week I Spent My Time On:
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Elixir   57 mins         ██████████████████████░░░   88.19 % 
+CSV      7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
 ```
 <!--END_SECTION:waka-->
 
