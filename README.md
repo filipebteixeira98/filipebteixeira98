@@ -42,6 +42,8 @@ JSON     2 mins          ░░░░░░░░░░░░░░░░░░�
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipebteixeira98&layout=compact&theme=dark)](https://github.com/filipebteixeira98/github-readme-stats)
 
+![Snake animation](https://github.com/filipebteixeira98/filipebteixeira98/blob/output/github-contribution-grid-snake.svg)
+
 <!---
 filipebteixeira98/filipebteixeira98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
