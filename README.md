@@ -43,6 +43,8 @@ Other        5 mins          ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 #### 📈 My GitHub Stats:
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=filipebteixeira98&theme=gotham&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=filipebteixeira98&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" align="left" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipebteixeira98&layout=compact&theme=dark)](https://github.com/filipebteixeira98/github-readme-stats)
