@@ -33,7 +33,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   0 secs          █████████████████████████   100.00 %
+Git Config   11 mins         ██████████░░░░░░░░░░░░░░░   39.53 %
+JavaScript   9 mins          ████████▓░░░░░░░░░░░░░░░░   34.18 %
+JSON         6 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.78 %
+Other        0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
 ```
 
 <!--END_SECTION:waka-->
