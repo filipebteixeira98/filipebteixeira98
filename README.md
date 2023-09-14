@@ -39,7 +39,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Ezhil        11 mins         ███████████████░░░░░░░░░░   60.00 %
+TSConfig     3 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.87 %
+TypeScript   2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.47 %
+CSS          1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
+HTML         0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
 ```
 
 <!--END_SECTION:waka-->
