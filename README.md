@@ -39,8 +39,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-GDScript3    52 mins         ███████████████████░░░░░░   76.45 %
-TypeScript   16 mins         ██████░░░░░░░░░░░░░░░░░░░   23.55 %
+GDScript3    40 mins         ███████████████████████▓░   94.16 %
+TypeScript   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
 ```
 
 <!--END_SECTION:waka-->
