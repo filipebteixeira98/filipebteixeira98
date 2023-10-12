@@ -52,9 +52,17 @@ TypeScript   0 secs          ░░░░░░░░░░░░░░░░░
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=filipebteixeira98&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=filipebteixeira98&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
 | :-: | :-: |
 
+<!---
 ![Snake animation](https://github.com/filipebteixeira98/filipebteixeira98/blob/output/github-contribution-grid-snake.svg)
+--->
 
 <!---
 filipebteixeira98/filipebteixeira98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
