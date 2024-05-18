@@ -39,9 +39,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     36 mins         ███████████████████████░░   92.53 %
-TypeScript   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Markdown     36 mins         █████████████████████████   99.61 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
