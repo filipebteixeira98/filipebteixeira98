@@ -21,7 +21,7 @@
   <li>🚀 currently learning [server, web, mobile] development using Typescript;</li>
   <li>💬 ask me about anything, i am happy to help;</li>
   <li>💞️ looking to collaborate on open source projects;</li>
-  <li>₿ &nbsp;&nbsp;feel free to send any contribution in my lightning wallet, if my work damn a worth;</li>
+  <li>₿ &nbsp;&nbsp;feel free to send any contribution in my lightning wallet, if my work worth a damn;</li>
 </ul>
 
 #### 🛠️ Languages and Technologies I use daily
