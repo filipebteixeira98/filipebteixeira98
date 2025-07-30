@@ -57,7 +57,7 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=filipebteixeira98&theme=dark) | ![](https://nirzak-streak-stats.vercel.app/?user=filipebteixeira98&theme=dark&hide_border=false) |
 | :-: | :-: |
 
-![Snake animation](https://github.com/filipebteixeira98/filipebteixeira98/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/filipebteixeira98/filipebteixeira98/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!---
 <picture>
