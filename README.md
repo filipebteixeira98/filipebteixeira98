@@ -18,10 +18,9 @@
 <ul>
   <li>👀 interested in programming/network infrastructure;</li>
   <li>👨‍💻 working on something cool;</li>
-  <li>🚀 currently learning [server, web, mobile] development using Typescript;</li>
+  <li>🚀 currently learning full stack development using Typescript;</li>
   <li>💬 ask me about anything, i am happy to help;</li>
   <li>💞️ looking to collaborate on open source projects;</li>
-  <li>₿ &nbsp;&nbsp;feel free to send any contribution in my lightning wallet, if my work worth a damn;</li>
 </ul>
 
 #### 🛠️ Languages and Technologies I use daily
