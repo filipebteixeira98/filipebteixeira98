@@ -13,7 +13,7 @@
   title="Profile Views"
 />
 
-<img src="https://icon-library.com/images/programmer-icon/programmer-icon-14.jpg" alt="Programmer" width="300" align="right" />
+<img src="https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif" alt="Programmer" width="300" align="right" />
 <h4>🤺 Talking about Personal Stuffs:</h4>
 <ul>
   <li>👀 interested in programming/network infrastructure;</li>
