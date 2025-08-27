@@ -1,19 +1,10 @@
-# Hi there 👋
+<h2 align="center">👋 Hey, how is it going?</h2>
 
-[![Gmail Badge](https://img.shields.io/badge/-filipebarrosteixeira98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:filipebarrosteixeira98@gmail.com)](mailto:filipebarrosteixeira98@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Filipe%20Teixeira-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipebteixeira98/)](https://www.linkedin.com/in/filipebteixeira98/)
-<a href="https://app.rocketseat.com.br/me/filipebteixeira98"><img src="https://img.shields.io/badge/Rocketseat-Filipe%20Teixeira-6633CC?style=flat-square&link=https://app.rocketseat.com.br/me/filipebteixeira98&labelColor=6633cc&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADQAAABACAYAAABVy1Q8AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAKmSURBVHgB3ZqNcaMwEIWfb66AlOASfB24BKcDOog7MFdBfBWgqyDpgOsAXwX4Kog7eLcaiQkmgITNj+RvRkOwCdplpdXT4hUigOSTHApp+niSdpb2r/p7tVqdEBPiUEY3pbQ3hI4YeaA/JUJGDNwMcUbaGqGijbNG+rJFSNhorGvn+wHOpAgJMeilZtyHtDdphaczR4QEzdD64G18SQLfsCA0QyyHWV9u4SL32CAU7NAaAx3hfFHnOGx98eV9hQWQjndymGJVf8bc8L4k0EeKuZFOnzhssfQlwxLQT2QOpaRR47M7c+D46KG7xtxIp1tOQ4K54XCR6UuKJZjImRxTQDMvtIhMOr5/5fiUvHfe0Ej7rDLcnhctHWVVZ7xW0GOyxr3Q6KQKn0VxLI3WZO+y1Uv6aCdwuyIei19S3bnfIRoFW2BZTuLMD58LffZDS+83zhggOn0cWnqoPUt0zr4X+zj0DvOUpuLSc/+fk1VFZS6lHB9Vu3/C60V4egVNI2NyDken+mPD4GNHH1r36RLWfEO95Wn2oa/b1P53xyVEpQsbraOHM2uEjI3OoXbepaYLLrHxGgo/9zZXT9+O+8oxhZjgdWI4NL4LPypN+LWQriOzRazYTNVGFnwSaMOR3UqGmJb7oN+rjiyKaNGkaV+0QthjRr5jOK7txB9pf2EEpxaeYb9yZ39ZKkVM0K4x1ikVrTM06iC3cyKpfZ42Pwsetm8XXhEjNEK0i5KxyRy615sdAqOzpkCzKXOl6AsCo69I8gI3wTnUCv3VQHBzqCtCW7j5LSWmaCJUOiKjEAt0vz5UiAn2v6lWiAlHMlCIDXYrA4UYYXsyUIgRthc+FGLFOpQ8hDMVtQynEDu16CjEDj/rBAqPAM0vPhQeARsdhUeBsZWeHPwHRmxFUT+gWAsAAAAASUVORK5CYII=" alt="App Rocketseat"></a>
-[![Bitcoin Badge](https://img.shields.io/badge/-sedatecinema08@walletofsatoshi.com-8B8000?style=flat-square&logo=Lightning&logoColor=white)]()
+<a href="mailto:filipebarrosteixeira98@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/filipebteixeira98/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://app.rocketseat.com.br/me/filipebteixeira98" target="_blank"><img src="https://img.shields.io/badge/-Rocketseat-8257E5?style=for-the-badge&logo=spaceship&logoColor=white" target="_blank"></a>
 
-### ✨ Glad to see you here!
-
-<img 
-  src="https://komarev.com/ghpvc/?username=filipebteixeira98&color=068FFF&style=flat-square" 
-  alt="P𝚛𝚘𝚏𝚒𝚕𝚎 V𝚒𝚎𝚠𝚜" 
-  title="Profile Views"
-/>
-
-<img src="https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif" alt="Programmer" width="300" align="right" />
+<img src="https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShaggyMullet&accessoriesType=Sunglasses&hairColor=BrownDark&facialHairType=Blank&clotheType=Hoodie&clotheColor=Black&eyeType=Hearts&eyebrowType=DefaultNatural&mouthType=Smile&skinColor=Tanned" align="right" />
 <h4>🤺 Talking about Personal Stuffs:</h4>
 <ul>
   <li>👀 interested in programming/network infrastructure;</li>
@@ -25,16 +16,7 @@
 
 #### 🛠️ Languages and Technologies I use daily
 
-<code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
-<code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png"></code>
+[![Hard Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,nest)](https://skillicons.dev)
 
 #### 📊 This Week I Spent My Time On:
 <!--START_SECTION:waka-->
@@ -57,6 +39,8 @@ Groovy       15 mins         ▒░░░░░░░░░░░░░░░░
 | :-: | :-: |
 
 ![Snake animation](https://github.com/filipebteixeira98/filipebteixeira98/blob/output/github-contribution-grid-snake-dark.svg)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=44444E&height=120&section=footer"/>
 
 <!---
 <picture>
