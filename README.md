@@ -4,7 +4,6 @@
 <a href="https://www.linkedin.com/in/filipebteixeira98/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://app.rocketseat.com.br/me/filipebteixeira98" target="_blank"><img src="https://img.shields.io/badge/-Rocketseat-8257E5?style=for-the-badge&logo=spaceship&logoColor=white" target="_blank"></a>
 
-<img src="https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShaggyMullet&accessoriesType=Sunglasses&hairColor=BrownDark&facialHairType=Blank&clotheType=Hoodie&clotheColor=Black&eyeType=Hearts&eyebrowType=DefaultNatural&mouthType=Smile&skinColor=Tanned" align="right" />
 <h4>🤺 Talking about Personal Stuffs:</h4>
 <ul>
   <li>👀 interested in programming/network infrastructure;</li>
