@@ -35,12 +35,11 @@ Groovy       15 mins         ▒░░░░░░░░░░░░░░░░
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=filipebteixeira98&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=filipebteixeira98&hide=Html&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=filipebteixeira98&theme=dark) |
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=filipebteixeira98&theme=dark) | ![](https://nirzak-streak-stats.vercel.app/?user=filipebteixeira98&theme=dark&hide_border=false) |
-| :-: | :-: |
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=filipebteixeira98&theme=dark)
 
-![Snake animation](https://github.com/filipebteixeira98/filipebteixeira98/blob/output/github-contribution-grid-snake-dark.svg)
+<!-- ![Snake animation](https://github.com/filipebteixeira98/filipebteixeira98/blob/output/github-contribution-grid-snake-dark.svg) -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=44444E&height=120&section=footer"/>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=44444E&height=120&section=footer"/> -->
 
 <!---
 <picture>
