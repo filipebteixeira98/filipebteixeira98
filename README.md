@@ -1,3 +1,5 @@
+<img width="100%" height="325" alt="background" src="https://github.com/user-attachments/assets/ff004fe2-f6c4-4ec1-80c1-eefa486132de" />
+
 <h2 align="center">👋 Hey, how is it going?</h2>
 
 <a href="mailto:filipebarrosteixeira98@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
