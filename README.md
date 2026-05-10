@@ -24,8 +24,8 @@ Groovy       15 mins         ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 #### 📈 My GitHub Stats:
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=filipebteixeira98&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=filipebteixeira98&hide=Html&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=filipebteixeira98&theme=dark) |
-| :-: | :-: | :-: |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=filipebteixeira98&hide=Html&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=filipebteixeira98&theme=dark) |
+| :-: | :-: |
 
 <!-- ![Snake animation](https://github.com/filipebteixeira98/filipebteixeira98/blob/output/github-contribution-grid-snake-dark.svg) -->
 
